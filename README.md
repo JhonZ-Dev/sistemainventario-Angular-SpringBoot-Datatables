@@ -20,3 +20,9 @@ Below are the views made for the client:
 <h1>Agregar un Producto</h1>
 
 ![angular3](https://github.com/jhonZambrano1999/sistemainventario-Angular-SpringBoot-Datatables/assets/79710173/187c695c-b69b-4f5e-a23e-87d9ef73727e)
+
+<h1>Para que la parte del Fornt End funcione es necesario instalar los componentes de angular</h1>
+<h2>npm install</h2>
+En tal caso si el datatable no funciona se debe instalar lo siguiente:
+<p>ng add angular-datatables</p>
+<span>Si no se coloca el comando npm install no funcionará - Gracias</span>
