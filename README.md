@@ -8,8 +8,5 @@ It is a system for basic inventory, which consists of doing all the CRUD. The ta
 
 Below are the views made for the client:
 
-<div>
-  <h1>Lista de los producto</h1> <br>
-</div>
-[![angular1.png](https://i.postimg.cc/HsLqrMby/angular1.png)](https://postimg.cc/s1t68v6j)
+![er](https://github.com/JhonZambranoM/consecionario--back-end-srping-boot/assets/75482142/88c873da-5cfe-41c5-b954-1d19e955a9f5)
 
