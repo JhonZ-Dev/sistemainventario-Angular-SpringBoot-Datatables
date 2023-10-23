@@ -10,9 +10,7 @@ Below are the views made for the client:
 
 <div>
   <h1>Lista de los producto</h1> <br>
-  <div>
-    ![angular1](https://github.com/jhonZambrano1999/sistemainventario-Angular-SpringBoot-Datatables/assets/79710173/bcc2dee1-fc72-452d-bd48-1768e524487f)
+  ![angular1](https://github.com/jhonZambrano1999/sistemainventario-Angular-SpringBoot-Datatables/assets/79710173/7afc9505-46cd-41da-b2e9-533f4b168057)
 
-  </div>
 </div>
 
